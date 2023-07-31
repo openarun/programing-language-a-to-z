@@ -20,3 +20,16 @@ Actor
 Ada – ISO/IEC 8652
 
 Agda
+
+# B
+B
+
+Babbage
+
+Bash
+
+BASIC
+
+Batch file (Windows/MS-DOS)
+
+bc (basic calculator)
