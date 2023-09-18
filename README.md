@@ -26,10 +26,92 @@ B
 
 Babbage
 
-Bash
-
 BASIC
 
 Batch file (Windows/MS-DOS)
 
 bc (basic calculator)
+
+# C 
+C
+
+C++
+
+C#
+
+# D
+Dart
+
+# E
+Erlang
+
+# F
+F#
+
+# G 
+Go
+
+# H
+Hack 
+
+# I 
+
+# J 
+Java
+
+Javascript 
+
+Julia
+
+# K 
+Kotlin 
+
+# L
+Lua
+
+# M
+Mojo 
+
+# N 
+Nim 
+
+# O 
+
+
+# P 
+Pascal
+
+PHP
+
+Python 
+
+# Q 
+
+# R 
+Rust
+
+Ruby 
+
+# S
+
+Swift 
+
+# T 
+Typescript 
+
+# U 
+
+# V 
+Visual Basic 
+
+# W
+
+
+# X 
+
+
+# Y
+ 
+
+# Z 
+
